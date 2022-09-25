@@ -1,0 +1,2 @@
+https://circuitcellar.com/research-design-hub/building-a-poe-power-subsystem/
+https://www.black-box.eu/en-int/page/23888/Resources/technical/Black-Box-Explains/lan/poe-power-over-ethernet/#:~:text=What%20Is%20the%20802.3at,power%20to%20Type%202%20devices.
