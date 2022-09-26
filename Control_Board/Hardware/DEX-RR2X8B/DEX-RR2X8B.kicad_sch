@@ -947,11 +947,24 @@
     )
   )
 
+  (sheet (at 194.945 38.1) (size 49.53 13.335) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid f0eaad98-d205-41c4-a0e6-ff5881df4ae0)
+    (property "Sheet name" "Front Panel Interface" (id 0) (at 194.945 37.3884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "component_sheets\\front_interface.kicad_sch" (id 1) (at 194.945 52.0196 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
   (sheet_instances
     (path "/" (page "1"))
     (path "/1c1c8a6c-57d7-4968-a5b1-c4b57727e3c5" (page "2"))
     (path "/3d5207c6-ba5d-495a-a522-c9d0e4eaa7bb" (page "3"))
     (path "/8a83fe5e-043a-439e-8fda-cbe71242c68a" (page "4"))
+    (path "/f0eaad98-d205-41c4-a0e6-ff5881df4ae0" (page "5"))
   )
 
   (symbol_instances

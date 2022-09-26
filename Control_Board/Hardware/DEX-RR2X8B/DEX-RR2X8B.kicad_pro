@@ -426,6 +426,10 @@
     [
       "8a83fe5e-043a-439e-8fda-cbe71242c68a",
       "Arduino Nano"
+    ],
+    [
+      "f0eaad98-d205-41c4-a0e6-ff5881df4ae0",
+      "Front Panel Interface"
     ]
   ],
   "text_variables": {}
